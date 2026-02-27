@@ -1,0 +1,4 @@
+src/auth/auth.service.ts(131,40): error TS2571: Object is of type 'unknown'.
+src/auth/auth.service.ts(162,40): error TS2571: Object is of type 'unknown'.
+src/auth/auth.service.ts(244,46): error TS2571: Object is of type 'unknown'.
+src/auth/auth.service.ts(297,44): error TS2571: Object is of type 'unknown'.
